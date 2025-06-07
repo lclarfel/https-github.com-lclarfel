@@ -14,11 +14,11 @@ Hi! I'm Larry and I am a "data naturalist". My unique background is grounded in 
 3. Teaching and Public Outreach
 
 Ecology and Natural History
-======
+------
 
 
 Data Science and Machine Learning
-======
+------
 
 Teaching and Public Outreach
-======
+------
